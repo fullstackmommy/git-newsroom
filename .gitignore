@@ -1,4 +1,8 @@
 not-news.txt
 temp/
 sandbox/first.doc
+<<<<<<< HEAD
 sandbox/first.txt
+=======
+temp/temp1.txt
+>>>>>>> Add temp1 to ignore
